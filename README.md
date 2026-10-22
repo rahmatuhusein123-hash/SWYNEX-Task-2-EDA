@@ -30,7 +30,8 @@ This analysis uses the cleaned dataset prepared during Task 1. The focus here is
 
 I created a histogram in Excel to examine how AQI values were distributed across the dataset.
 
-![Histogram showing the distribution of overall AQI values](images/aqi_histogram.png)
+![Histogram showing the distribution of overall AQI values](<img width="790" height="455" alt="aqi_histogram (1)" src="https://github.com/user-attachments/assets/b9c31065-8161-446b-a00b-250acdfee680" />
+.png)
 
 The recorded AQI values had a mean of **72.01**, a median of **55**, and a mode of **50**. Values ranged from **6 to 500**, with a skewness of **3.29**.
 
@@ -59,7 +60,8 @@ Among the four pollutant measures examined, PM2.5 had the highest recorded avera
 
 I used an Excel PivotTable to compare average AQI values across countries. Records labelled `Unknown` in the Country field were excluded from this country-level comparison.
 
-![Bar chart showing the top ten countries by average AQI](images/top_10_countries_aqi.png)
+![Bar chart showing the top ten countries by average AQI](<img width="1095" height="415" alt="top_10_countries_aqi" src="https://github.com/user-attachments/assets/4eef0eaa-3ede-4705-8f9a-1f4221f2ac91" />
+.png)
 
 The ten highest recorded country averages were:
 
@@ -84,7 +86,8 @@ These results reflect the available dataset records and should not be interprete
 
 I used a PivotTable to summarise the number of records in each AQI category. A bar chart and a pie chart were created to show the record counts and percentage distribution.
 
-![Bar chart and pie chart showing the distribution of AQI categories](images/aqi_category_charts.png)
+![Bar chart and pie chart showing the distribution of AQI categories](<img width="725" height="455" alt="aqi_category_charts" src="https://github.com/user-attachments/assets/0b218b84-8c7f-4522-b8c1-81b80600b7cf" />
+.png)
 
 The category counts were:
 

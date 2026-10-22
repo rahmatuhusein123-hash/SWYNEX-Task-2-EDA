@@ -1,4 +1,4 @@
-# Global Air Pollution Dataset — Exploratory Data Analysis (EDA)
+# Global Air Pollution Dataset - Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This analysis uses the cleaned dataset prepared during Task 1. The focus here is
 ## Dataset and Tools
 
 - **Dataset:** Global Air Pollution Dataset
-- **Source:** [Kaggle — Global Air Pollution Dataset](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
+- **Source:** [Kaggle - Global Air Pollution Dataset](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset)
 - **Tool:** Microsoft Excel
 - **Records analysed:** 23,463
 
@@ -144,6 +144,6 @@ The analysis highlighted a right-skewed AQI distribution, differences in recorde
 ---
 
 **Internship:** SWYNEX Technologies Data Analyst Internship  
-**Task:** Task 2 — Exploratory Data Analysis (EDA)  
+**Task:** Task 2 - Exploratory Data Analysis (EDA)  
 **Tool:** Microsoft Excel# SWYNEX-Task-2-EDA
 Exploratory Data Analysis of the Global Air Pollution Dataset using Microsoft Excel.
